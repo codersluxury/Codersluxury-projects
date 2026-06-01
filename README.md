@@ -6,7 +6,7 @@ Welcome to the **Business Ready Projects** repository. This folder contains poli
 
 Check out the live preview for the repository landing page:
 
-- [View project](https://codersluxury.github.io/) 
+- [View project]( https://codersluxury.github.io/Codersluxury-projects/) 
 
 ## 📁 Projects
 
