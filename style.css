@@ -1,0 +1,45 @@
+:root {
+    --header-bg-color: #9d8a0f;
+}
+
+* {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    /* border: 1px solid red; */
+}
+
+header {
+    text-align: center;
+    font-size: 2rem;
+    padding: 20px;
+    height: 175px;
+    background: var(--header-bg-color);
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+#portfolio-main-section {
+    border: 1px solid #ccc;
+    font-size: 1.5rem;
+}
+
+.portfolio-title {
+    font-weight: bold;
+    font-size: 1.7rem;
+    display: inline-block;
+    width: 100%;
+    border-bottom: 1px solid #332727;
+    margin-top: 15px;
+}
+
+.portfolio-title span {
+    margin-left: 20px;
+}
+
+.portfolio-container {
+    margin: 20px 0 0 25px;
+}
+
